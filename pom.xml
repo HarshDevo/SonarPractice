@@ -15,7 +15,10 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.target>1.7</maven.compiler.target> 
+    <sonar.host.url>http://localhost:9000</sonar.host.url>
+    <sonar.projectKey>Harsh_jenkin1</sonar.projectKey>
+    <sonar.projectName>Harsh_jenkin</sonar.projectName>
   </properties>
 
 
