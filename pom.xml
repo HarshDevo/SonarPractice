@@ -17,11 +17,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
-  <properties>
-    <sonar.host.url>http://localhost:9000</sonar.host.url>
-    <sonar.projectKey>Harsh_jenkin1</sonar.projectKey>
-    <sonar.projectName>Harsh_jenkin</sonar.projectName>
-  </properties>
+
 
   <dependencies>
     <dependency>
